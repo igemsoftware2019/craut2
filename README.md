@@ -1,5 +1,5 @@
 
-# CRAUT
+# CRAUT2 - iGEM Toronto
 
 `CRAUT` is a tool used to generate and rank linkers for proteins using using a rod and angle model.
 
